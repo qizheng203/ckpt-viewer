@@ -1,5 +1,5 @@
 # Ckpt_viewer
-
+## 如果您觉得本项目对您的工作有帮助,请奖励我们一个Star,感谢您!如果您觉得项目有需要完善的地方,请提交Issues,或者Email:qzheng203@gmail.com
 Ckpt_viewer 是一个本地运行的 checkpoint 权重体检与静态量化风险诊断工具。它可以直接分析 `.pth`、`.pt`、`.ckpt`、`.bin`、`.safetensors` 文件中的 tensor 分布、离群值、稀疏性、INT8 fake quant 风险和 BN / Norm folding 风险。
 
 本工具不需要 GPU，不需要模型源码，不执行 forward，也不需要输入样本。
