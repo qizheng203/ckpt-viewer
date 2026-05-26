@@ -94,7 +94,15 @@ ckpt-viewer ui
 ```text
 http://localhost:8501
 ```
+
+## UI 效果
+<img width="2523" height="990" alt="image" src="https://github.com/user-attachments/assets/29fbc1cc-2533-4c1c-8744-e75aa237c04a" />
 <img width="2522" height="1256" alt="image" src="https://github.com/user-attachments/assets/c6d17204-5b28-4217-abf3-629fa547a320" />
+<img width="2168" height="1149" alt="image" src="https://github.com/user-attachments/assets/e131ec3e-a888-405e-b96c-0ec7b7bd4105" />
+<img width="2198" height="1199" alt="image" src="https://github.com/user-attachments/assets/91ed6bb4-8f14-4b43-bd37-a0b498b6c8d1" />
+<img width="2185" height="1203" alt="image" src="https://github.com/user-attachments/assets/94d61776-0776-4dc5-a8f3-f20d0b0a9e35" />
+
+
 
 ## CLI 使用
 
