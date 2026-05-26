@@ -94,6 +94,7 @@ ckpt-viewer ui
 ```text
 http://localhost:8501
 ```
+<img width="2522" height="1256" alt="image" src="https://github.com/user-attachments/assets/c6d17204-5b28-4217-abf3-629fa547a320" />
 
 ## CLI 使用
 
